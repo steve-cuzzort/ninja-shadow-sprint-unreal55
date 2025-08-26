@@ -1,0 +1,6 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:steve-cuzzort/scripts.git
+[submodule "Plugins/AnubisCallsIni"]
+	path = Plugins/AnubisCallsIni
+	url = git@github.com:steve-cuzzort/AnubisCallsIni.git
