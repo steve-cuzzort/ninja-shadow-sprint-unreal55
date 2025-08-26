@@ -54,7 +54,6 @@ IOS
 *.xcarchive
 Android_ASTC
 *.backup
-Game.ini
 commit_hash.hash
 Plugins/AnubisCallsIni/Intermediate
 Plugins/AnubisCallsIni/Binaries
